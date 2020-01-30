@@ -27,3 +27,6 @@ Mои домашние задания
 
 
 [Урок-12]( https://github.com/mrxart/mrxart.github.io/tree/master/lesson_12 "Lesson 12")
+
+
+[Урок-13]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_13/src "Lesson 13")
