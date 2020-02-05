@@ -38,3 +38,5 @@ Mои домашние задания
 [Урок-15]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_15 "Lesson 15(2)")
 
 [Урок-16]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_16 "Lesson 16")
+
+[Урок-17]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_17/src "Lesson 16")
