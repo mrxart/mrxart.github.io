@@ -43,4 +43,4 @@ Mои домашние задания
 
 [Урок-18]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_18/src "Lesson 18")
 
-[Урок-19]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_19/src"Lesson 19")
+[Урок-19]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_19/src "Lesson 19")
