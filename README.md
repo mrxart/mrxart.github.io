@@ -48,3 +48,7 @@ Mои домашние задания
 [Урок-20]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_20/src "Lesson 20")
 
 [Урок-21]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_21/src "Lesson 21")
+
+[Урок-22]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_22/src "Lesson 22")
+
+
