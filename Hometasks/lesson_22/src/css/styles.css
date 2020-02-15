@@ -1,0 +1,50 @@
+body {
+    height: 100vh;
+    background: url("../img/Слой_1.png") no-repeat center;
+    background-size: cover;
+}
+
+.panel__header {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.panel__head {
+    color: #0bbaf0;
+    font-family: Ubuntu;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.panel__span {
+    color: #0bbaf0;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.panel-heading {
+    text-align: center;
+}
+
+.panel-title {
+    background: #0bbaf0;
+}
+
+.panel-title a {
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 23px;
+    font-weight: 400;
+    text-decoration: none;
+    width: 815px;
+}
+
+.panel-body {
+    width: 745px;
+    color: #535353;
+    font-family: Ubuntu;
+    font-size: 22px;
+    font-weight: 400;
+    padding: 26px 42px 32px 69px;
+}
