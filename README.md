@@ -53,4 +53,6 @@ Mои домашние задания
 
 [Урок-23]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_23/src "Lesson 23")
 
+[Урок-24]( https://github.com/mrxart/mrxart.github.io/tree/master/Hometasks/lesson_24/src "Lesson 24")
+
 
